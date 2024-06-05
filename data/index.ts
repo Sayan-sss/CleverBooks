@@ -166,16 +166,31 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
-    link: "https://github.com/Sayan-sss",
+    link: "",
   },
   {
     id: 2,
     img: "/insta.svg",
-    link: "https://www.instagram.com/sayan__sss/",
+    link: "",
   },
   {
     id: 3,
     img: "/link.svg",
-    link: "https://www.linkedin.com/in/sayan-mondal-10a734221/",
+    link: "",
   },
+  {
+    id: 4,
+    img: "/twit.svg",
+    link: "",
+  },
+];
+
+export const matrix = [
+  { id: 1, title: "STOCKOUTS", description: "85% Reduction in out-of-stock" },
+  {
+    id: 2,
+    title: "CASH RECOVERY CYCLE",
+    description: "25 days Reduction in cash recovery time",
+  },
+  { id: 3, title: "REVENUE", description: "15% Growth in revenue" },
 ];

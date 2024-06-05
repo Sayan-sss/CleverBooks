@@ -25,8 +25,8 @@ const Footer = () => {
           />
         </a>
       </div>
-      <div className="flex mt-16 md:flex-col flex-col justify-center items-center">
-        <p className="md:text-base text-sm md:font-normal font-light">
+      <div className="flex mt-16 md:flex-col flex-col justify-center items-center text-center">
+        <p className="md:text-base text-sm md:font-normal font-light ">
           Registered Office: 1507, Incubex, 11th cross road, 19th Main Road,
           Bengaluru, India. 560102
         </p>

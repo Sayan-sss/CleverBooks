@@ -35,8 +35,8 @@ const Hero = () => {
           </p>
 
           <TextGenerateEffect
-            words="Every order
-            fulfilled, on time."
+            words="Every order fulfilled, 
+            on time."
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 

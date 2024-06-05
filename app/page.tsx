@@ -6,6 +6,7 @@ import Approach from "@/components/Approach";
 import Feature from "@/components/Feature";
 import Review from "@/components/Review";
 import Footer from "@/components/Footer";
+import KeyMatrix from "@/components/KeyMatrix";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
         <FloatingNav navItems={navItems} />
         <Hero />
         <Approach />
+        <KeyMatrix />
         <Blog />
         <Review />
         <Feature />
